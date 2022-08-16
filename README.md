@@ -1,2 +1,2 @@
-# linkvertise-bypass
-autohotkey linkvertise bypasser
+# krnl-linkvertise-bypass
+autohotkey krnl key linkvertise bypasser
